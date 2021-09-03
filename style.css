@@ -1,0 +1,79 @@
+body
+{
+    font-family: 'Gloria Hallelujah', cursive;
+    background: rgb(193, 221, 92);
+}
+
+.header_div
+{
+    background:rgb(228, 90, 90);
+    color:rgb(8, 26, 85);
+}
+
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px rgb(5, 102, 21);
+    border: 1px solid;
+}
+
+
+.header_div img
+{
+    width: 100px;
+}
+
+.main_div
+{
+    background:rgb(139, 38, 38);
+    padding:10px;
+    margin-top:15px;
+    border: 3px solid rgb(223, 161, 161);
+}
+
+.main_div label
+{
+    background: rgb(78, 172, 42);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(236, 128, 128);
+}
+
+#camera, #result
+{
+  border: 2px solid rgb(66, 8, 8);
+  width:310px;
+  height: 300px;
+  box-shadow: 5px 5px 18px rgb(24, 22, 139);
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div h4
+{
+    background: rgb(108, 234, 238);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img
+{
+    width:70px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(250, 224, 175);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(206, 151, 238);
+    line-height: 3;
+    text-align: center;
+}
+
